@@ -1,0 +1,8 @@
+cd OneDrive\Documents\"CS185 Projects"\"Worksheet 1"
+git init
+git status
+git commit "Committing an empty new file, newfile.txt"
+git remote add origin https://github.com/evrenke/CS185worksheet1.git
+git push -u origin main
+git pull origin main
+doskey /h > c:\cmd_history.txt
